@@ -192,6 +192,7 @@
     "TELEMETRY_ERROR_STATUS": "Error",
     "TELEMETRY_ERROR_MESSAGE": "Your configuration could not be saved. Please try again.",
     "GROUP_IS_EMPTY": "Skupina je prázdná",
+    "NO_CANDIDATE_GROUP": "Není přiřazena skupina",
     "GROUP_MEMBERSHIP_GROUP_SELECT_GROUPS": "Select Groups",
     "GROUP_MEMBERSHIP_GROUP_GROUP_ID": "Group ID",
     "GROUP_MEMBERSHIP_GROUP_GROUP_NAME": "Group Name",
